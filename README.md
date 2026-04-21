@@ -1,10 +1,10 @@
-# vuejs2-SFC-starter 
+# vue js v2.x -SFC-starter 
 
-#### Easy to create vue js v2 npm project with SFC (Single File Component) enabled - with Webpack
+#### Easy to create vue js v2.x npm project with SFC (Single File Component) enabled - with Webpack
 
 Hi, I am Ashutosh Kumar.
    
-I have added this project for you guys. Because I have faced a lot of problems during creaing _vuejs 2_ based project with SFC (Single File Component) feature. Mostly I failed to get this goal becauase of some specific version of **Vue Loader** module can work with **vuejs 2** framework version. After trying a lot hard I have found the solution of this problem's solution. That why it decided to upload it on GitHub. If anyone need just clone or copy this repository (often shortened to "repo").
+I have added this project for you guys. Because I have faced a lot of problems during creaing _vuej s v2.x_ based project with SFC (Single File Component) feature. Mostly I failed to get this goal becauase of some specific version of **Vue Loader** module can work with **vue js v2.x** framework version. After trying a lot hard I have found the solution of this problem's solution. That why it decided to upload it on GitHub. If anyone need just clone or copy this repository (often shortened to "repo").
  
 And in this project I have build **ToDo List App** list also with SFC implimentation so it might be bounce for you.
 
@@ -15,14 +15,15 @@ And in this project I have build **ToDo List App** list also with SFC implimenta
 
 * Change dir to this project root folder.
 
-* Open terminal and type ```npm install```.
+* Open terminal and type
+  ```npm install```.
 
 * Next few mintues, it will download all dependencies that required for our project.
 
 * After that you can run it by command.
-   `npm run start`
+  `npm run start`
 
-  ___________))    *BOOM it is live on sever* ((_____________
+  ___________))    *BOOM it is live on sever => **http://localhost:3000*** ((_____________
 
 ### Screenshots ...
 
